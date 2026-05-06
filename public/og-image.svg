@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <radialGradient id="g1" cx="70%" cy="30%" r="55%"><stop stop-color="#69E2FF" stop-opacity=".34"/><stop offset="1" stop-color="#050816" stop-opacity="0"/></radialGradient>
+    <radialGradient id="g2" cx="18%" cy="80%" r="50%"><stop stop-color="#5EE7A4" stop-opacity=".2"/><stop offset="1" stop-color="#050816" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#050816"/>
+  <rect width="1200" height="630" fill="url(#g1)"/>
+  <rect width="1200" height="630" fill="url(#g2)"/>
+  <rect x="70" y="70" width="1060" height="490" rx="42" fill="#101A34" fill-opacity=".72" stroke="rgba(255,255,255,.14)"/>
+  <text x="100" y="190" fill="#93A3C7" font-family="system-ui, sans-serif" font-size="28" letter-spacing="8">МКДК · СТУДСОВЕТ</text>
+  <text x="100" y="305" fill="#F5F8FF" font-family="system-ui, sans-serif" font-size="78" font-weight="800">IT-департамент МКДК</text>
+  <text x="100" y="380" fill="#CAD6F3" font-family="system-ui, sans-serif" font-size="34">Colai · мессенджер · Python Lab · инфраструктура</text>
+  <circle cx="975" cy="200" r="72" fill="#69E2FF" opacity=".18"/>
+  <circle cx="1018" cy="260" r="112" fill="none" stroke="#69E2FF" stroke-opacity=".45" stroke-width="3"/>
+</svg>

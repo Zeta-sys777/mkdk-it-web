@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 840" fill="none">
+  <rect width="640" height="840" rx="48" fill="#050816" />
+  <rect x="40" y="40" width="560" height="760" rx="36" fill="#131F3D" stroke="rgba(255,255,255,0.08)" />
+  <circle cx="320" cy="280" r="104" fill="#20346A" />
+  <path d="M180 650C180 564.948 248.948 496 334 496H306C391.052 496 460 564.948 460 650V688H180V650Z" fill="#1A2950" />
+  <text x="320" y="744" text-anchor="middle" fill="#F5F8FF" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="700">
+    Айгуль
+  </text>
+  <text x="320" y="778" text-anchor="middle" fill="#93A3C7" font-family="Inter, Arial, sans-serif" font-size="18">
+    placeholder portrait
+  </text>
+</svg>

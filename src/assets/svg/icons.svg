@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none">
+  <symbol id="icon-node" viewBox="0 0 24 24">
+    <circle cx="12" cy="12" r="6" fill="currentColor" />
+  </symbol>
+  <symbol id="icon-link" viewBox="0 0 24 24">
+    <path d="M6 12h12" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+  </symbol>
+  <symbol id="icon-spark" viewBox="0 0 24 24">
+    <path d="M12 3l2.5 6.5L21 12l-6.5 2.5L12 21l-2.5-6.5L3 12l6.5-2.5L12 3Z" fill="currentColor" />
+  </symbol>
+</svg>
